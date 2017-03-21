@@ -66,12 +66,14 @@ public class MainActivity extends AppCompatActivity {
                         String s = request.url().toString();
 
                         Log.e(TAG, "onResponse: " + response.body().toString());
+                        System.out.println("message:" + message + ";url: " + s);
                         tv.setText(response.body().toString());
                     }
 
                     @Override
                     public void onFailure(Call<BookInfo> call, Throwable t) {
                         Log.e(TAG, "onFailure: " + t.getMessage());
+                        Request request = call.request();
                     }
                 });
             }
