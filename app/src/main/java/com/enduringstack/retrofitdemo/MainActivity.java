@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFailure(Call<ThemeInfo> call, Throwable t) {
-                Log.e(TAG, "onFailure: " + t.getMessage());
+
             }
         });
     }
