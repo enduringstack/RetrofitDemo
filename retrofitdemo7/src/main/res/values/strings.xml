@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tooploox-MaterialHub</string>
+    <string name="label_login">Login</string>
+    <string name="label_password">Password</string>
+    <string name="label_signin">Sign in</string>
+    <string name="field_required">This field is required</string>
+    <string name="authentication_code">Authentication code</string>
+    <string name="ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="field_cant_be_empty">Field can\'t be empty</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="logging_in">Logging in...</string>
+    <string name="wrong_login">Wrong login or password</string>
+    <string name="already_registered">Already registered ! Remove existing token in GitHub account settings !</string>
+    <string name="your_repositories">Your repositories</string>
+    <string name="fetching_your_repos">Fetching your repositories...</string>
+    <string name="search_repositories">Search for repositories</string>
+    <string name="found_count">Found: %1$d</string>
+
+    <string name="starred_by_you">Starred by you</string>
+    <string name="not_starred_by_you">Not starred by you</string>
+    <string name="not_watched_by_you">Not subscribed by you</string>
+    <string name="watched_by_you">Subscribed by you</string>
+    <string name="successfully_unstarred_repo">Successfully unstarred this repository</string>
+    <string name="error_unstarring">Error when unstarring this repository</string>
+    <string name="error_starring">Error when starring this repository</string>
+    <string name="successfully_starred">Successfully starred this repository</string>
+    <string name="successfully_unsubscribed">Successfully unsubscribed from this repository</string>
+    <string name="error_unsubscribing">Error when unsubscribing from this repository</string>
+    <string name="successfully_subscribed">Successfully subscribed to this repository</string>
+    <string name="error_subscribing">Error when subscribing to this repository</string>
+    <string name="working_offline">WORKING OFFLINE</string>
+    <string name="searching">Searching...</string>
+    <string name="search_results_query">Search results for: %1$s</string>
+    <string name="search_results">Search results</string>
+    <string name="unknown_status">Unknown status</string>
+    <string name="refresh_repositories">Refresh repositories</string>
+</resources>

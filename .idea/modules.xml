@@ -6,6 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofitdemo2/retrofitdemo2.iml" filepath="$PROJECT_DIR$/retrofitdemo2/retrofitdemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofitdemo3/retrofitdemo3.iml" filepath="$PROJECT_DIR$/retrofitdemo3/retrofitdemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo4/retrofitdemo4.iml" filepath="$PROJECT_DIR$/retrofitdemo4/retrofitdemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo5/retrofitdemo5.iml" filepath="$PROJECT_DIR$/retrofitdemo5/retrofitdemo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo6/retrofitdemo6.iml" filepath="$PROJECT_DIR$/retrofitdemo6/retrofitdemo6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo7/retrofitdemo7.iml" filepath="$PROJECT_DIR$/retrofitdemo7/retrofitdemo7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo8/retrofitdemo8.iml" filepath="$PROJECT_DIR$/retrofitdemo8/retrofitdemo8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo9/retrofitdemo9.iml" filepath="$PROJECT_DIR$/retrofitdemo9/retrofitdemo9.iml" />
     </modules>
   </component>
 </project>
